@@ -123,7 +123,7 @@ tutoriais do [Programming Historian em português][].
 brew install datasette
 ```
 
-![][2]
+![][Low_Code/insta.gif]
 
 -   Como eu já instalei o Datasette, meu comando mudou para <code>brew
     reinstall datasette</code>.
