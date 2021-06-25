@@ -7,7 +7,7 @@
 3. Instalação
 4. Funções básicas
 5. Explorando alguns plugins
-6. Explorar e compartilhar dados na internet com Datasette
+6. Explorar e compartilhar dados na internet com o Datasette
 7. Considerações sobre a ferramenta e este tutorial
 
 ----
