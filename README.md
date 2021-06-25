@@ -184,7 +184,7 @@ Se você quiser editar sua tabela (eliminar e renomear colunas, mudar o tipo de 
 
 
 
-Uma das melhores formas de explorar dados é criar visualizações. O Datasette tem um plugin chamado [Datasette-Vega](https://github.com/simonw/datasette-vega). No entanto, suas capacidades são limitadas (três tipos de visualização: barchart, linechart e scatterplot). 
+Uma das melhores formas de explorar dados é criar visualizações. O Datasette tem um plugin chamado [Datasette-Vega](https://github.com/simonw/datasette-vega). No entanto, suas capacidades são limitadas (três tipos de visualização: bar plot, line plot e scatter plot). 
 
 ![vega](Low_Code/vega.jpg)
 
